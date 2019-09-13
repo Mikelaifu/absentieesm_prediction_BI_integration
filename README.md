@@ -5,7 +5,7 @@ Integrate 3 tools for BI data reporting-
 * MySQL: secure predicated data queries &amp; storage; 
 * Tableau: data story &amp; reports
 
-![Logics](img/BI Integration Design.png)
+![Logics](img/"BI Integration Design.png")
 
 Tableau Visuazliation Reports:
 
